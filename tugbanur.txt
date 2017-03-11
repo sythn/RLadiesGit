@@ -1,4 +1,4 @@
 arrtime = camel case
 arr_time = snake case
 
-merhaba dunya 
+merhaba dunya ...
